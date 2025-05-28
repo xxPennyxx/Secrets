@@ -1,0 +1,8 @@
+CLIENT_ID=366272314949-5muclppcelgtsrpg6ub45lr3h9afgk99.apps.googleusercontent.com
+CLIENT_SECRET=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
+
+Passwords:
+tombanton@c4g.com.au: somersetveteran
+haydenkerr@c4g.com.au: kerrminator
+jakeweatherald@c4g.com.au: ineverleftsaredbacks
+bethell@c4g.com.au: phoenixfire
